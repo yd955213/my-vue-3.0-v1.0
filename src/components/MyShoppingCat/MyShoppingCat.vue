@@ -88,8 +88,7 @@ export default {
 </script>
 
 <style lang="less" scoped>
-    .my-shopping-cat {
-      display: block;
-
-    }
+.my-shopping-cat {
+  display: block;
+}
 </style>

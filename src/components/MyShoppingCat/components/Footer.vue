@@ -36,7 +36,7 @@ export default {
     },
     ifFull: {
       type: Boolean,
-      default: true,
+      default: false,
     },
   },
   emits: ["selectAll"],

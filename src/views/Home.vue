@@ -14,3 +14,8 @@ import MyShoppingCat from "@/components/MyShoppingCat/MyShoppingCat.vue";
 })
 export default class Home extends Vue {}
 </script>
+<!--<style lang="less" scoped>-->
+<!--div{-->
+<!--  top: 50px;-->
+<!--}-->
+<!--</style>-->
